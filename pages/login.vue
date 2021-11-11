@@ -6,7 +6,7 @@
           <label for="email">Email</label>
           <input type="email" name="email" id="email" v-model="email">
             <br>
-          <label for="password">Contrasena</label>
+          <label for="password">Contrasenna</label>
           <input type="password" name="password" id="password" v-model="password"> 
           <br>
           <label for="">Selecciona</label>
